@@ -108,8 +108,9 @@
           "generic": "https://mc.mullv.studio",
           "curseforge": "https://map.mullv.studio"
         }
-      },
-      {
+      }
+    },
+    {
       "id": "1.2.1",
       "releasedAt": 1772837257760,
       "updateType": "major",
