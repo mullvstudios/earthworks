@@ -1,0 +1,58 @@
+# V 1.2.1
+**Release Date:** March 6, 2026  
+
+## Summary:
+
+This update focuses on keeping the modpack fresh and stable with a round of mod updates improving performance, stability, and enhancing world content. No major gameplay changes, but several backend improvements and minor fixes from upstream mod updates.
+
+##🔄 Updated Mods
+
+- **[Crash Assistant](https://modrinth.com/mod/ix1qq8Ux)** → *1.11.0*  
+Improved crash reports and recovery behavior.  
+
+- **[Create Big Cannons](https://modrinth.com/mod/GWp4jCJj)** → *5.11.2*  
+Updated cannon behavior and fixed texture issues.  
+
+- **[Create: Structures Arise](https://modrinth.com/mod/9enMEvoc)** → *158.31.30*  
+Structure generation improvements for better world variety.  
+
+- **[CreativeCore](https://modrinth.com/mod/OsZiaDHq)** → *2.13.34*  
+Backend optimization and bug fixes.  
+
+- **[EnhancedVisuals](https://modrinth.com/mod/KjL0jE2w)** → *1.8.26*  
+Adjusted visual effects for smoother performance.  
+
+- **[Exposure](https://modrinth.com/mod/hB899VmG)** → *1.9.14*  
+Updates to photo rendering and camera customization.  
+
+- **[FirstPerson](https://modrinth.com/mod/H5XMjpHi)** → *2.6.3*  
+Smoother transitions and better compatibility with custom animations.  
+
+- **[Forgified Fabric API](https://modrinth.com/mod/Aqlf1Shp)** → *0.116.7+2.2.4+1.21.1*  
+Foundation library update for broader mod compatibility.  
+
+- **[GeckoLib 4](https://modrinth.com/mod/8BmcQJ2H)** → *4.8.4*  
+Animation system improvements and internal fixes.  
+
+- **[Hardcore Revival](https://modrinth.com/mod/HqKoXaXz)** → *21.1.13*  
+Minor fixes for multiplayer revival consistency.  
+
+- **[Lithostitched](https://modrinth.com/mod/XaDC71GB)** → *1.6.0*  
+Improved terrain stitching for custom dimensions.  
+
+- **[Moonlight Lib](https://modrinth.com/mod/twkfQtEc)** → *1.21-2.29.20*  
+Dependency update required for various structure mods.  
+
+- **[Repurposed Structures](https://modrinth.com/mod/QDNS5oAT)** → *7.5.18+1.21.1-neoforge*  
+More balanced loot tables and performance tweaks.  
+
+- **[Tom’s Simple Storage Mod](https://modrinth.com/mod/XZNI4Cpy)** → *2.3.0*  
+Smarter sorting, improved performance in large systems.  
+
+- **[Waystones](https://modrinth.com/mod/LOpKHB2A)** → *21.1.28*  
+Reduced teleport delay and improved server syncing.  
+
+## 🧹 General Notes
+- Verified compatibility across updated dependencies.  
+- Minor config adjustments for smoother world generation.  
+- Recommended: **Backup your world** before updating.
