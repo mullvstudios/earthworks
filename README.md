@@ -4,6 +4,8 @@ MullV Earthworks is the official modpack of the **mullv.studio** network, built 
 
 This pack combines high‑quality client utilities, strong performance mods, immersive visuals, and a large Create ecosystem, all tuned for long‑term multiplayer survival on the MullV network.
 
+![banner](./banner.png)
+
 ---
 
 ## Key Features
