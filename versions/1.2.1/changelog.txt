@@ -5,7 +5,7 @@
 
 This update focuses on keeping the modpack fresh and stable with a round of mod updates improving performance, stability, and enhancing world content. No major gameplay changes, but several backend improvements and minor fixes from upstream mod updates.
 
-##🔄 Updated Mods
+## 🔄 Updated Mods
 
 - **[Crash Assistant](https://modrinth.com/mod/ix1qq8Ux)** → *1.11.0*  
 Improved crash reports and recovery behavior.  
