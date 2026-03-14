@@ -1,0 +1,33 @@
+# MullV Earthworks v1.3.0 Changelog
+
+## 🎉 Major Updates & New Additions
+
+Earthworks 1.3.0 brings **enhanced Create rail management, immersive movement, aerial options, and refined UI/performance** — perfect for expanding your infrastructure projects and exploration. All updates are to the latest stable 1.21.1 NeoForge versions as of March 2026.
+
+## ✨ New Mods
+
+- **Immersive Aircraft** (1.4.3+1.21.1): Build and pilot custom aircraft that integrate with Create contraptions for air transport and scouting.  
+- **FlightAssistant** (3.0.1): Creative flight helper with auto‑stabilization and pathfinding for easier worldbuilding.  
+- **ParCool!** (3.4.3.2): Fluid parkour, wallrunning, and momentum‑based movement for dynamic traversal.  
+- **Presence Footsteps (NeoForge)** (1.21.1-1.12.0-beta.1): Surface‑aware footstep sounds that react to terrain, adding immersion to exploration.  
+- **Shoulder Surfing Reloaded** (1.21.1-4.22.1): Third‑person over‑shoulder camera for better building awareness and cinematic views.  
+- **Smooth F5** (1.0.1): Silky smooth F5 camera transitions without jarring snaps.  
+- **Immersive Melodies** (0.6.2+1.21.1): Custom music discs and instruments for base ambiance and events.  
+
+## 🔧 Updated Mods
+
+- **Create Railways Navigator** (1.21.1-alpha-0.9.0-C6): Improved train scheduling, pathfinding, and station management for complex rail networks.  
+- **EMI++** (1.2.3): Enhanced EMI search, categorization, and favorites for faster recipe hunting.  
+- **EMI Enchanting** (0.1.2+1.21+neoforge) / **EMI Loot** (0.7.9+1.21+neoforge): Better enchanting previews and loot table inspection.  
+- **Lithium** (0.15.3+mc1.21.1) / **Lithostitched** (1.6.1): Optimized entity/tick performance for larger player counts and contraptions.  
+- **Waystones** (21.1.29): Bug fixes and integration improvements for multiplayer teleportation.  
+- **CreativeCore** (2.13.35) / **OctoLib** (0.6.1): Core library stability for dependent mods.  
+- **WorldEdit** (7.3.8+6939-7d32b45): Latest selection tools and performance tweaks for mega‑projects.  
+- **TooManyRecipeViewers** (0.7.1+mc.21.1): Expanded recipe compatibility across more mods.  
+
+## 💡 Performance & Compatibility Notes
+- Expect **smoother large‑scale rail ops and multiplayer sessions** thanks to Lithium/Lithostitched and rail updates.  
+- Test aircraft and flight mods in creative first — they shine for scouting 1:1 terrain but may need tuning for heavy survival worlds.  
+- No breaking changes; existing worlds compatible. Allocate 8GB+ RAM for optimal play.  
+
+**Download and join the official mullv.studio servers to build on the custom 1:1 terrain!**
