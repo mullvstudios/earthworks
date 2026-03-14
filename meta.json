@@ -8,7 +8,7 @@
       "releasedAt": 1771130274489,
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/survival-2026",
+          "modrinth": "https://modrinth.com/modpack/earthworks",
           "generic": "https://mc.mullv.studio",
           "curseforge": "https://map.mullv.studio"
         }
@@ -20,7 +20,7 @@
       "updateType": "minor",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/survival-2026",
+          "modrinth": "https://modrinth.com/modpack/earthworks",
           "generic": "https://mc.mullv.studio",
           "curseforge": "https://map.mullv.studio"
         }
@@ -32,7 +32,7 @@
       "updateType": "minor",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/survival-2026",
+          "modrinth": "https://modrinth.com/modpack/earthworks",
           "generic": "https://mc.mullv.studio",
           "curseforge": "https://map.mullv.studio"
         }
@@ -44,7 +44,7 @@
       "updateType": "minor",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/survival-2026",
+          "modrinth": "https://modrinth.com/modpack/earthworks",
           "generic": "https://mc.mullv.studio",
           "curseforge": "https://map.mullv.studio"
         }
@@ -56,7 +56,7 @@
       "updateType": "major",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/survival-2026",
+          "modrinth": "https://modrinth.com/modpack/earthworks",
           "generic": "https://mc.mullv.studio",
           "curseforge": "https://map.mullv.studio"
         }
@@ -68,7 +68,7 @@
       "updateType": "incompatible",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/survival-2026",
+          "modrinth": "https://modrinth.com/modpack/earthworks",
           "generic": "https://mc.mullv.studio",
           "curseforge": "https://map.mullv.studio"
         }
@@ -80,7 +80,7 @@
       "updateType": "major",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/survival-2026",
+          "modrinth": "https://modrinth.com/modpack/earthworks",
           "generic": "https://mc.mullv.studio",
           "curseforge": "https://map.mullv.studio"
         }
@@ -92,7 +92,7 @@
       "updateType": "major",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/survival-2026",
+          "modrinth": "https://modrinth.com/modpack/earthworks",
           "generic": "https://mc.mullv.studio",
           "curseforge": "https://map.mullv.studio"
         }
@@ -104,7 +104,7 @@
       "updateType": "major",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/survival-2026",
+          "modrinth": "https://modrinth.com/modpack/earthworks",
           "generic": "https://mc.mullv.studio",
           "curseforge": "https://map.mullv.studio"
         }
@@ -116,7 +116,18 @@
       "updateType": "major",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/survival-2026",
+          "modrinth": "https://modrinth.com/modpack/earthworks",
+          "generic": "https://mc.mullv.studio",
+          "curseforge": "https://map.mullv.studio"
+        }
+      },
+      {
+      "id": "1.3.0",
+      "releasedAt": 1773492177342,
+      "updateType": "major",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/earthworks",
           "generic": "https://mc.mullv.studio",
           "curseforge": "https://map.mullv.studio"
         }
