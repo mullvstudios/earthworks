@@ -133,6 +133,18 @@
           "curseforge": "https://map.mullv.studio"
         }
       }
+    },
+    {
+      "id": "1.4.0",
+      "releasedAt": 1774567595124,
+      "updateType": "major",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/earthworks",
+          "generic": "https://mc.mullv.studio",
+          "curseforge": "https://map.mullv.studio"
+        }
+      }
     }
   ]
 }
