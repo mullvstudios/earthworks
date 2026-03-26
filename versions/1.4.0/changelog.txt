@@ -1,0 +1,47 @@
+# V1.4.0
+
+> ⚠️ **NeoForge Required:** This version requires the **latest NeoForge build for 1.21.1**. Please update NeoForge before launching. Using an outdated version may cause crashes or unexpected behavior.
+
+## 🔧 Updated Mods
+
+All mods have been updated to their latest stable versions as of March 2026.
+
+- **Advanced Peripherals** → *0.7.60b*: Latest peripheral support and bug fixes for CC: Tweaked integration.
+- **CC: Tweaked** → *1.117.1*: Updated ComputerCraft fork with new APIs and stability improvements.
+- **Colorwheel** → *1.2.2+mc1.21.1*: Improved shader compatibility with Create's Flywheel rendering.
+- **Crash Assistant** → *1.11.3*: Enhanced crash diagnostics and recovery suggestions.
+- **Create Bits 'n' Bobs** → *0.0.44*: New small-scale Create additions and tweaks.
+- **Create Railways Navigator** → *1.21.1-alpha-0.9.0-C6*: No change from previous version.
+- **Create Stuff & Additions** → *2.0.9*: Extended Create utility blocks and recipes.
+- **Create Train Utilities** → *3.0.3*: Improved train management tools and fixes.
+- **Create: Connected** → *1.1.13-mc1.21.1*: Bug fixes and connectivity improvements.
+- **Create: Copycats+** → *3.0.4+mc.1.21.1-neoforge*: New copycat shapes and NeoForge compatibility fixes.
+- **Create: Dragons Plus** → *1.8.7*: Additions and fixes for the Dragons Plus integration.
+- **Create: Enchantment Industry** → *2.3.0*: Automation improvements for enchanting workflows.
+- **Create: Power Grid** → *0.5.4*: Stability improvements for power distribution networks.
+- **Create: Sound of Steam** → *0.8.2+1.21.1*: Refined steam audio and engine sound design.
+- **Create: Structures Arise** → *158.31.30*: No change from previous version.
+- **CreativeCore** → *2.13.36*: Backend stability and dependency fixes.
+- **Deeper and Darker** → *1.3.4*: New deep dark content and biome tweaks.
+- **Design n' Decor** → *2.1.0*: New decorative blocks and furniture options.
+- **Entity Model Features** → *3.0.15*: Improved custom model loading and compatibility.
+- **Entity Texture Features** → *7.0.13*: Enhanced emissive and random texture support.
+- **EntityCulling** → *1.10.0*: Performance improvements for entity visibility culling.
+- **Exposure** → *1.9.15*: Camera refinements and photo rendering fixes.
+- **Friends&Foes** → *4.0.23*: New mob additions and vanilla parity improvements.
+- **Medieval Buildings [End Edition]** → *wn6LL8i1*: Updated medieval structure set.
+- **Moonlight Lib** → *1.21-2.29.23*: Core library update for dependent structure mods.
+- **NotEnoughAnimations** → *1.12.0*: New player animations and compatibility fixes.
+- **ParCool!** → *3.4.3.3*: Parkour movement fixes and new maneuver options.
+- **Resourcify** → *1.8.1*: Improved in-game resource pack browser and performance.
+- **TooManyRecipeViewers** → *0.7.2+mc.21.1*: Expanded recipe compatibility and search improvements.
+- **YUNG's Better End Island** → *1.21.1-NeoForge-3.1.2*: Redesigned End Island generation.
+- **YUNG's Better Nether Fortresses** → *1.21.1-NeoForge-3.1.5*: Revamped Nether Fortress layouts and loot.
+
+## 💡 Notes
+
+- No breaking changes; existing worlds remain compatible.
+- Allocate **8GB+ RAM** for optimal performance.
+- Back up your world before updating as a precaution.
+
+**Download and join the official mullv.studio servers to build on the custom 1:1 terrain!**
