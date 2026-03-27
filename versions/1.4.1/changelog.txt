@@ -1,0 +1,15 @@
+# V1.4.1
+
+> ⚠️ **NeoForge Required:** This version requires the **latest NeoForge build for 1.21.1**. Please update NeoForge before launching. Using an outdated version may cause crashes or unexpected behavior.
+
+## 🗑️ Removed Mods
+
+- **Combat Roll**: Removed due to compatibility issues. Standard Minecraft combat mechanics apply.
+
+## 💡 Notes
+
+- No other changes from v1.4.0.
+- Existing worlds remain fully compatible.
+- Allocate **8GB+ RAM** for optimal performance.
+
+**Download and join the official mullv.studio servers to build on the custom 1:1 terrain!**
